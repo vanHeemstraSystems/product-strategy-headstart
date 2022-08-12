@@ -7,10 +7,14 @@ Based on "Important elements every new product strategy needs to have" at https:
 
 See [README.md](./100/README.md)
 
-## 200 - Key elements a product strategy needs to contain
+## 200 - The Timeframe of a Product Strategy
 
 See [README.md](./200/README.md)
 
-## 300 - Product strategy template/framework
+## 300 - Key Elements a Product Strategy needs to contain
 
 See [README.md](./300/README.md)
+
+## 400 - Product Strategy Template/Framework
+
+See [README.md](./400/README.md)
