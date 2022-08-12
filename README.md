@@ -3,6 +3,8 @@ product-strategy-headstart
 
 Based on "Important elements every new product strategy needs to have" at https://www.christianstrunk.com/blog/product-strategy
 
+Based on "Three Key Elements Your Company Story Needs (Or: The Difference Between Purpose, Vision, Mission, Strategy, and All That Crap)" at https://finance.yahoo.com/news/three-key-elements-company-story-170059929.html
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
