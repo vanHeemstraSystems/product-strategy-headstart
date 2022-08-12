@@ -1,6 +1,6 @@
 # 100 - Introduction
 
-A product strategy is a high-level plan for a team/company to achieve a certain goal or goals with a product/service. These goals are derived from the product vision which plays a key role in the product strategy. Using the product vision I can clearly define the following my product strategy: 
+A product strategy is a high-level plan for a team/company to achieve a certain goal or goals with a product/service. These goals are derived from the product vision which plays a key role in the product strategy. Using the product vision I can clearly define my product strategy, following: 
 
 - for whom we’re building the product/service
 
