@@ -23,3 +23,5 @@ Let’s do the math!
 *Product Vision vs. Product Strategy*
 
 Everything starts with a dream. To make it come true, it’s important to develop a plan.
+
+![Product-Strategy-Elements](https://user-images.githubusercontent.com/1499433/184325238-0a35cb4b-0f61-4c7e-9694-13f312a25b38.png)
