@@ -5,6 +5,8 @@ Based on "Important elements every new product strategy needs to have" at https:
 
 Based on "Three Key Elements Your Company Story Needs (Or: The Difference Between Purpose, Vision, Mission, Strategy, and All That Crap)" at https://finance.yahoo.com/news/three-key-elements-company-story-170059929.html
 
+Based on "Planning in Context: Mission, Vision & Strategy" at https://productstride.substack.com/p/planning-in-context-mission-vision
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
