@@ -11,7 +11,7 @@ See [README.md](./100/README.md)
 
 See [README.md](./200/README.md)
 
-## 300 - Key Elements a Product Strategy needs to contain
+## 300 - Key Elements a Product Strategy Needs to Contain
 
 See [README.md](./300/README.md)
 
