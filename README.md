@@ -7,6 +7,8 @@ Based on "Three Key Elements Your Company Story Needs (Or: The Difference Betwee
 
 Based on "Planning in Context: Mission, Vision & Strategy" at https://productstride.substack.com/p/planning-in-context-mission-vision
 
+Based on "Strategy vs Tactics: How Strategic Thinking And Tactical Planning Belong Together" at https://www.techtello.com/strategy-vs-tactics/
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
